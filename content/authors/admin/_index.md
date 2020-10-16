@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.com/citations?user=1kvlpn8AAAAJ&hl=en&authuser=1
 - icon: cv
   icon_pack: ai
-  link: D:\Webpage\starter-academic\starter-academic\static\files\cv.pdf
+  link: static\files\cv.pdf
 
 # - icon: github
 #  icon_pack: fab
