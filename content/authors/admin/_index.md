@@ -51,7 +51,9 @@ social:
   link: https://scholar.google.com/citations?user=1kvlpn8AAAAJ&hl=en&authuser=1
 - icon: cv
   icon_pack: ai
-  link: static\files\cv.pdf
+  link: "static/files/cv.pdf"
+
+# {{% staticref "files/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
 # - icon: github
 #  icon_pack: fab
