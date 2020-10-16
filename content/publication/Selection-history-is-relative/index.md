@@ -19,10 +19,7 @@ publication_types: ["2"]
 publication: "Vision Research"
 publication_short: ""
 
-abstract: "Visual attention can be tuned to specific features to aid in visual search. The way in which these search strategies are established and maintained is flexible, reflecting goal-directed attentional control, but can exert a persistent effect on selection that remains even when these strategies are no longer advantageous, reflecting an attentional bias driven by selection history. Apart from feature-specific search, recent studies have shown that attention can be tuned to target-nontarget relationships. Here we tested whether a relational search strategy continues to bias attention in a subsequent task, where the relationally better color and former target color both serve as distractors (Experiment 1) or as potential targets (Experiment 2). We demonstrate that a relational bias can persist
-in a subsequent task in which color serves as a task-irrelevant feature, both impairing and facilitating visual
-search performance. Our findings extend our understanding of the relational account of attentional control and
-the nature of selection history effects on attention."
+abstract: "Visual attention can be tuned to specific features to aid in visual search. The way in which these search strategies are established and maintained is flexible, reflecting goal-directed attentional control, but can exert a persistent effect on selection that remains even when these strategies are no longer advantageous, reflecting an attentional bias driven by selection history. Apart from feature-specific search, recent studies have shown that attention can be tuned to target-nontarget relationships. Here we tested whether a relational search strategy continues to bias attention in a subsequent task, where the relationally better color and former target color both serve as distractors (Experiment 1) or as potential targets (Experiment 2). We demonstrate that a relational bias can persist in a subsequent task in which color serves as a task-irrelevant feature, both impairing and facilitating visual search performance. Our findings extend our understanding of the relational account of attentional control and the nature of selection history effects on attention."
 
 # Summary. An optional shortened abstract.
 summary: ""
